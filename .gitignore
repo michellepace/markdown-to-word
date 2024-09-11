@@ -1,0 +1,39 @@
+# SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# LOG FILES
+*.log
+
+# TEMP FILES
+*.tmp
+*~
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PYTHON CACHE
+__pycache__/
+.pytest_cache
+
+# PYTHON ENVIRO
+venv/
+env/
+.venv/
+.env/
+
+# JUPYTER NOTEBOOK
+.ipynb_checkpoints
+
+# INPUT FOLDER
+x-input/*
+!x-input/test-simple.md
+!x-input/test-simple.png
+
+# OUTPUT FOLDER
+x-output/*
+!x-output/test-simple.docx
+
+# Michelle
+product-writeup.md
