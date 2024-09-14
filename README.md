@@ -147,6 +147,6 @@ On branch master
 Your branch is up to date with 'origin/master'.
 ```
 
-For `git push -u origin master`: This sets up tracking between your local repo (master) and your Github repo (origin). Once you've run this command once, you can simply use `git push` and `git push` in the future. 
+For `git push -u origin master`: This sets up tracking between your local repo (master) and your Github repo (origin). Once you've run this command once, you can simply use `git push` and `git push` in the future.
 
 ---
